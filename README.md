@@ -1,1 +1,1 @@
-# behavior
+# Basic App Behavior
